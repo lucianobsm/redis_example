@@ -1,0 +1,6 @@
+@redis_example.API_HostAddress = http://localhost:5043
+
+GET {{redis_example.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
