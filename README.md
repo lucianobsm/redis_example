@@ -1,4 +1,4 @@
-# redis_example 🧠⚡
+# redis_example
 
 Este projeto é um exemplo simples de integração com o Redis usando C# (.NET), com suporte a Docker para facilitar o ambiente de desenvolvimento.
 
